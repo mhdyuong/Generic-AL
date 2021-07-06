@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayList()
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=element
+comment2.target=void\ add(java.lang.Object)
+comment3.params=i
+comment3.target=java.lang.Object\ get(int)
+comment4.params=
+comment4.target=int\ size()
+comment5.params=i
+comment5.target=void\ remove(int)
+comment6.params=index\ element
+comment6.target=void\ set(int,\ java.lang.Object)
+numComments=7

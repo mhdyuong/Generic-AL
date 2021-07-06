@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=key\ value
+comment0.target=boolean\ add(java.lang.Object,\ java.lang.Object)
+comment1.params=key
+comment1.target=java.lang.Object\ remove(java.lang.Object)
+comment2.params=n
+comment2.target=java.lang.Object\ remove(int)
+comment3.params=
+comment3.target=java.lang.Object\ remove()
+comment4.params=key
+comment4.target=java.lang.Object\ lookup(java.lang.Object)
+comment5.params=
+comment5.target=int\ size()
+comment6.params=n
+comment6.target=java.lang.Object\ get(int)
+numComments=7
